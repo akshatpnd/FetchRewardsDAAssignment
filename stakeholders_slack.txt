@@ -1,0 +1,29 @@
+Hey [name],
+
+Hope that you're doing well! I have been working with some of the data that we have collected recently; specifically, data about our 
+users, brands, and the receipts that are being scanned. While I was able to extract some meaningful insights that our stakeholders would
+appreciate, there are some pressing matters regarding the quality of our data that I believe you should be made aware of.
+
+My main question to you would be regarding how we are collecting the data when a receipt is scanned and how much control do we have over
+the process. While I was cleaning up the data regarding the receipts, I discovered that we are providing points to users but there are 
+several instances where the data regarding the process is not captured. An example would be points being assigned to a user whose receipt
+shows no items purchased and no record of when these points were actually assigned. This issue could be a sign of bigger issues within
+the data collection process. In order to resolve this issue, I would need access to the team that handles the assignment of points
+or the code through which points are assigned/receipts are parsed. This will allow me to better understand some of the behavior that our
+data is displaying and figure out what exactly is causing data leakage within our data sets.
+
+Some other information that would also come in handy for me would be the importance of certain features within our dataset. There
+is quite a lot of data that we collect that doesn't bring us much value as it is and I believe that it would be of value to either
+eliminate these features or come to a conclusion on their relevance to our product. This would help us cut down on costs in the long run
+as we scale up the amount of data that we collect. Currently, there are far too many records that provide little value to us and eliminating
+them would really help us cut some costs when it comes to our data warehouse and the resources that we use to query our data. Additionally,
+this will help future hires to be onboarded faster and help everyone be on the same page in general.
+
+If you have around 15 mins sometime in the next day or two, we should schedule a meeting to figure out the specific steps we should take
+to optimize our data which would allow me to extract even more value from what we have.
+
+Best,
+Akshat
+
+
+
